@@ -1,9 +1,7 @@
 ## Hi there 👋
 My name is Bala Shelomith, and I'm a computer science student interested in image processing!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: her
+- 🌱 I’m currently learning Advanced Python, Math, and Core ML.
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: Happiness is... the sound of a camera shutter.
 
 <!--
